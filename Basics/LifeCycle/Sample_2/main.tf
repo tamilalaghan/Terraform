@@ -6,7 +6,7 @@ resource "local_file" "Hagrid" {
     random_pet.Hagrids_Pet
   ]
 
-  lifecycle {
+  lifecycle { 
     ignore_changes = [
        content
     ]

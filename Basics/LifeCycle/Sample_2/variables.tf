@@ -7,7 +7,7 @@ variable "filename" {
 
 variable "prefix" {
     default = "Mr"
-    type = string
+    type = string 
     description = "This is the Prefix for Pet"
 }
 variable "length" {
