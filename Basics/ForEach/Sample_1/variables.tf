@@ -6,7 +6,7 @@ variable "filename_map" {
         },
          "Hufflepuff" = {
             "filename" = "C:/Users/tamil/Desktop/Terraform Executions/ResourceExample/Hufflepuff.txt"
-            "content" = "Hufflepuff's mascot is the badger"
+            "content" = "Hufflepuff's mascot is the Badger"
         },
          "Ravenclaw" = {
             "filename" = "C:/Users/tamil/Desktop/Terraform Executions/ResourceExample/Ravenclaw.txt"
